@@ -300,36 +300,6 @@ Facial Expression to Emoji:
 It is the last phase in this project. In this phase, the detected facial expression is converted to the corresponding emoji.
 
 
-OUTPUT
-
-![image](https://user-images.githubusercontent.com/52529370/197346096-903da66b-9165-4c10-8aeb-72cf8e1ea1ff.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/52529370/197346058-3a6b476d-df8e-41e9-9e30-6a217b11b721.png)
 
 
 
@@ -361,7 +331,38 @@ OUTPUT
 
 
 
-![image](https://user-images.githubusercontent.com/52529370/197346029-c85eea83-4045-4f2b-9deb-f3f1021a0664.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
